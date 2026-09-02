@@ -7,4 +7,5 @@ and more.
 I have done research on cleaning bot from references Google, Claude AI ( for its hardware as i am new to electronics), CesNieto DIY vacuum bot, Youtube( on how vacuum
 works, how blower motor creates the vacuum and designs of cleaner bot).
 
-These are the materials i will be using 
+These are the materials i will be using:
+1. 1x H-Bridge L
