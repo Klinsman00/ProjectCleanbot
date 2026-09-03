@@ -17,21 +17,21 @@ These are the materials i will be using:
 7. 1x Fan Blower AVC BA10033B12G 12V (main vacuum blower motor 38cfm
 8. 2x Sharp Distance Sensor GP2Y0A41SK0F (detect distance about 4 -30cm)
 9. 2x Pololu 32mm wheel
-10.1x TalentCell 12V 6Ah LiFePO4 Battery Pack, Ultra Long Life Cycles Rechargeable DC 12.8V 6000mAh
-11.1x 14.4V 1.5A charge
-12.1x DC 5521 female plug to bare wire open
-13.1x cable connector
-14.1x red and wire cable 5m
-15.5x corrugated plastic (for testing build before 3d printing)
-16.1x 3d printed chassis
-17.1x prototype board
-18.1x vacuum bag filter
-19.1x on/off switch
-20.2x push buttons
-21.4x resistors (just in case)
-22.1x pololu ball caster
-23.20x M3 bolts with (3mm diameter)
-24.20x M3 nuts
+10. 1x TalentCell 12V 6Ah LiFePO4 Battery Pack, Ultra Long Life Cycles Rechargeable DC 12.8V 6000mAh
+11. 1x 14.4V 1.5A charge
+12. 1x DC 5521 female plug to bare wire open
+13. 1x cable connector
+14. 1x red and wire cable 5m
+15. 5x corrugated plastic (for testing build before 3d printing)
+16. 1x 3d printed chassis
+17. 1x prototype board
+18. 1x vacuum bag filter
+19. 1x on/off switch
+20. 2x push buttons
+21. 4x resistors (just in case)
+22. 1x pololu ball caster
+23. 20x M3 bolts with (3mm diameter)
+24. 20x M3 nuts
 
 Tools i will be using are:
 1. soldering iron
