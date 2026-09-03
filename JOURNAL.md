@@ -9,7 +9,7 @@ works, how blower motor creates the vacuum and designs of cleaner bot).
 
 These are the materials i will be using:
 1. 1x H-Bridge L298 motor controller
-2. 1x Esp32 microcontroller
+2. 1x Esp32-WROOM-32D microcontroller
 3. 1x IRF520 MOS FET Driver Module (control speed and voltage of blower motor)
 4. 2x Micro Metal Gearmotor HP 6V 298:1
 5. 1x Micro Metal Gearmotor Bracket Pair
