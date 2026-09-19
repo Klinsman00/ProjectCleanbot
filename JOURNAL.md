@@ -37,6 +37,9 @@ These are the materials i will be using:
 27. 1x LM2596 DC-DC buck converter 5V fixed output(for voltage of esp32) #
 28. 1x 3mm to 6mm flexible shaft coupler
 29. 1x Green led 5mm 2V #
+30. 1x encoder cables
+31. 1x 6mm bearing
+32. 
 
 Tools i will be using are:
 1. soldering iron
