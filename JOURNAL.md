@@ -11,7 +11,7 @@ I have done research on cleaning bot from references Google, Claude AI ( for its
 
 
 
-#September 2nd to September 7th
+# September 2nd to September 7th: Researching and studying
 
 
 Thought that i only had to write journal then i can start but after asking questions in forge_help, a friend and claude AI, found out that I need a wiring diagram,
@@ -21,11 +21,11 @@ So i started to search for materials for it then came across a DIY vacuum robot 
 
 
 
-**Total time spend around 38 to 44 hours totaling up that week
+**Total time spend: 38 to 44 hours totaling up that week**
 
 
 
-#September 7th to September 14th
+# September 7th to September 14th: Deeper Research and wiring diagram
 
 Studied more deeper into the vacuum robot and it did not seem as simple as it looked. Learned how a vacuum works and that i need a 12V blower motor for it to work
 .After that, i spend a long time on which battery to use for this vacuum robot that is safe and rechargeable without using the specialized charging detector that
@@ -35,17 +35,17 @@ So then i found FreeCAD and tried experimenting a bit but completely do not know
 
 
 
-**Total time spent around 38 to 44 hours
+**Total time spent: 38 to 44 hours**
 
 
 
-#September 14th to September 19th
+# September 14th to September 19th: Finish designing wiring diagram and learned more about forge requirements
 
 
 Continued to design my wiring diagram and realized that for some electronic parts i need to design it's symbol myself using connectors and took me some time because i was finding out where do all these wires and pins connect. Studied more about Esp32 S3 and researched on what microcontrollers does, how does it communicate and where does the pin go and which pin to use. Then found out that I need a BOM file to record my list of materials and that the list of materials is not suppose to be in my Journal. Which my journal is suppose to record my progress and that my README is like a table of contents where my file should not be in there but my screenshots while my files should be in my main.
 <img width="1287" height="837" alt="image" src="https://github.com/user-attachments/assets/9215477f-5233-48ab-90f5-22bbeb7141ef" />
 
-
+**Total time spent: 12 hours**
 
 
 
