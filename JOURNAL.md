@@ -21,7 +21,7 @@ So i started to search for materials for it then came across a DIY vacuum robot 
 
 
 
-**Total time spend: 38 to 44 hours totaling up that week**
+**Total time spent: 38 to 44 hours totaling up that week**
 
 
 
