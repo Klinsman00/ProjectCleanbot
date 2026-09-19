@@ -1,6 +1,6 @@
 ---
-title: Clean O Bot
-author: Klinsman Tiong                                                                                                                                             description: A vacuum cleaner robot that can track it's movement to make sure every space is covered and not to go back to places already covered                  date: September 1st
+title: "Clean O Bot"
+author: "Klinsman Tiong"                                                                                                                                           description: "A vacuum cleaner robot that can track it's movement to make sure every space is covered and not to go back to places already covered"                date: "September 1st"
 ---
 
 Hello! This is my first time creating a hardware project or robotics project and am very excited about it. I started this project because i was just introduced this Hackclub from my new pre-university classmate so i wanted to start a project before i turn 19 next year. Then i thought about my room having a lot of dust so i thought to myself i needed a vacuum but i don't want to do the vacuum myself so i thought about a vacuum robot and thus the project i am going to make is a vacuum cleaner robot. Although i don't have past experience on robotics project i am quite confident on my software skills so i will be coding the software myself and creating the PCB(although its also my first time doing this) on its version 2 and other functions like mapping the room and more. 
