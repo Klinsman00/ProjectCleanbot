@@ -30,11 +30,15 @@ So i started to search for materials for it then came across a DIY vacuum robot 
 # September 7th to September 14th: Deeper Research and wiring diagram
 
 Studied more deeper into the vacuum robot and it did not seem as simple as it looked. Learned how a vacuum works and that i need a 12V blower motor for it to work which i used the same as CesNieto.
+
 <img width="1467" height="732" alt="image" src="https://github.com/user-attachments/assets/853c1480-fe0e-4d70-9f5c-136d88503863" />
 
 I needed a battery that is rechargeable yet needs to be 12 V so i found this LiPo battery but found out LiPo battery are too unstable to use and need a specialized balanced charger to charge.
+
 <img width="1510" height="717" alt="image" src="https://github.com/user-attachments/assets/2f5d8317-3e70-4f97-bbcd-a0e22159121d" />
-Found alternative battery called LiFePo4 battery that is rechargeable, stable, easy to charge and has 12 voltage although it does have higher cost
+
+Found alternative battery called LiFePo4 battery that is rechargeable, stable, easy to charge and has 12 voltage although it does have higher cost.
+
 <img width="952" height="472" alt="image" src="https://github.com/user-attachments/assets/c393a42c-bf60-4df9-b281-9de6cfcd4ff4" />
 
 
