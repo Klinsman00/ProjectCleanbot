@@ -30,6 +30,8 @@ So i started to search for materials for it then came across a DIY vacuum robot 
 # September 7th to September 14th: Deeper Research and wiring diagram
 
 Studied more deeper into the vacuum robot and it did not seem as simple as it looked. Learned how a vacuum works and that i need a 12V blower motor for it to work which i used the same as CesNieto.
+This is an image i generated using Claude to understand more clearly
+<img width="880" height="411" alt="image" src="https://github.com/user-attachments/assets/a6bdf2ca-1f4b-4681-9fcb-b9b96630eea4" />
 
 <img width="1467" height="732" alt="image" src="https://github.com/user-attachments/assets/853c1480-fe0e-4d70-9f5c-136d88503863" />
 
