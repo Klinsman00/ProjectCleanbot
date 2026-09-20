@@ -29,9 +29,16 @@ So i started to search for materials for it then came across a DIY vacuum robot 
 
 # September 7th to September 14th: Deeper Research and wiring diagram
 
-Studied more deeper into the vacuum robot and it did not seem as simple as it looked. Learned how a vacuum works and that i need a 12V blower motor for it to work
-.After that, i spend a long time on which battery to use for this vacuum robot that is safe and rechargeable without using the specialized charging detector that
-LiPo uses and instead found LiFePO battery that is much more stable although lower voltage. Found all the parts price for parts found last week. Started to design the 3d CAD model and tried to use TinkerCAD but was a utter failure as it is completely not detailed enough and aren't accurate. Also discovered KiCAD to design my wiring diagram.
+Studied more deeper into the vacuum robot and it did not seem as simple as it looked. Learned how a vacuum works and that i need a 12V blower motor for it to work which i used the same as CesNieto.
+<img width="1467" height="732" alt="image" src="https://github.com/user-attachments/assets/853c1480-fe0e-4d70-9f5c-136d88503863" />
+
+I needed a battery that is rechargeable yet needs to be 12 V so i found this LiPo battery but found out LiPo battery are too unstable to use and need a specialized balanced charger to charge.
+<img width="1510" height="717" alt="image" src="https://github.com/user-attachments/assets/2f5d8317-3e70-4f97-bbcd-a0e22159121d" />
+Found alternative battery called LiFePo4 battery that is rechargeable, stable, easy to charge and has 12 voltage although it does have higher cost
+<img width="952" height="472" alt="image" src="https://github.com/user-attachments/assets/c393a42c-bf60-4df9-b281-9de6cfcd4ff4" />
+
+
+Started to design the 3d CAD model and tried to use TinkerCAD but was a utter failure as it is completely not detailed enough and aren't accurate. Also discovered KiCAD to design my wiring diagram.
 
 So then i found FreeCAD and tried experimenting a bit but completely do not know how to use it so i watched maybe 3 youtube videos to learn how to use it and realized this is going to take a long time and decide to put this as the last task before submitting my project for review.
 <img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/67aa64ad-d709-4794-a4aa-f440856e7b57" />
