@@ -43,9 +43,8 @@ Found alternative battery called LiFePo4 battery that is rechargeable, stable, e
 
 
 Started to design the 3d CAD model and tried to use TinkerCAD but was a utter failure as it is completely not detailed enough and aren't accurate. Also discovered KiCAD to design my wiring diagram.
-
-So then i found FreeCAD and tried experimenting a bit but completely do not know how to use it so i watched maybe 3 youtube videos to learn how to use it and realized this is going to take a long time and decide to put this as the last task before submitting my project for review.
 <img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/67aa64ad-d709-4794-a4aa-f440856e7b57" />
+So then i found FreeCAD and tried experimenting a bit but completely do not know how to use it so i watched maybe 3 youtube videos to learn how to use it and realized this is going to take a long time and decide to put this as the last task before submitting my project for review.
 
 
 
