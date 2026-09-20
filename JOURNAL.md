@@ -58,7 +58,10 @@ So then i found FreeCAD and tried experimenting a bit but completely do not know
 # September 14th to September 19th: Finish designing wiring diagram and learned more about forge requirements
 
 
-Continued to design my wiring diagram and realized that for some electronic parts i need to design it's symbol myself using connectors and took me some time because i was finding out where do all these wires and pins connect. Studied more about Esp32 S3 and researched on what microcontrollers does, how does it communicate and where does the pin go and which pin to use. Then found out that I need a BOM file to record my list of materials and that the list of materials is not suppose to be in my Journal. Which my journal is suppose to record my progress and that my README is like a table of contents where my file should not be in there but my screenshots while my files should be in my main.
+Continued to design my wiring diagram and realized that for some electronic parts i need to design it's symbol myself using connectors and took me some time because i was finding out where do all these wires and pins connect. Studied more about Esp32 S3 and researched on what microcontrollers does, how does it communicate and where does the pin go and which pin to use.
+<img width="977" height="546" alt="image" src="https://github.com/user-attachments/assets/c22c6e2b-f3fa-4cf4-9193-8df806b13243" />
+
+Then found out that I need a BOM file to record my list of materials and that the list of materials is not suppose to be in my Journal. Which my journal is suppose to record my progress and that my README is like a table of contents where my file should not be in there but my screenshots while my files should be in my main.
 <img width="1287" height="837" alt="image" src="https://github.com/user-attachments/assets/9215477f-5233-48ab-90f5-22bbeb7141ef" />
 <img width="1912" height="845" alt="image" src="https://github.com/user-attachments/assets/59fc4951-e829-40d7-bc30-63e466129323" />
 
