@@ -33,7 +33,9 @@ Studied more deeper into the vacuum robot and it did not seem as simple as it lo
 This is an image i generated using Claude to understand more clearly
 <img width="880" height="411" alt="image" src="https://github.com/user-attachments/assets/a6bdf2ca-1f4b-4681-9fcb-b9b96630eea4" />
 
-<img width="1467" height="732" alt="image" src="https://github.com/user-attachments/assets/853c1480-fe0e-4d70-9f5c-136d88503863" />
+Then i used the Delta BFB1012EH blower motor rather than AVC BA10033B12G because i couldn't find other shops to buy other than Amazon but for some reason Amazon doesn't deliver to my country so i will be using this alternative as it is more common
+
+<img width="1212" height="537" alt="image" src="https://github.com/user-attachments/assets/23eee542-986f-45f0-a3fa-183e8efc4ecb" />
 
 I needed a battery that is rechargeable yet needs to be 12 V so i found this LiPo battery but found out LiPo battery are too unstable to use and need a specialized balanced charger to charge.
 
