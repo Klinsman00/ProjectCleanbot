@@ -5,4 +5,5 @@ Anyway jokes aside this project i am making is a vacuum cleaner robot that has f
 The reason i decided on making this project is because i thought about my family back in Sabah sweeping and vacuuming the house and want to lessen their burden a little so after making this robot i will be sending it over to them.
 
 * Wiring diagram
-<img width="1287" height="837" alt="image" src="https://github.com/user-attachments/assets/9215477f-5233-48ab-90f5-22bbeb7141ef" />
+<img width="1226" height="851" alt="image" src="https://github.com/user-attachments/assets/4eace66a-8c3b-4edf-a825-fdb2869e47ac" />
+
