@@ -72,6 +72,16 @@ Then found out that I need a BOM file to record my list of materials and that th
 
 **Total time spent: 12 hours**
 
+# September 24th
+
+Listing out the BOM made some changes which is my battery changing it from LiFEPO4 battery to a Lithium ion battery because my country does not allow LiFePO4 battery to be shipped here so i have no choice but this is also a good alternative just that it is slightly less stable than LiFePO4 battery since the quality decreases when overcharged 
+<img width="1512" height="862" alt="image" src="https://github.com/user-attachments/assets/7a2d6fdf-cb3d-4103-9538-923a7efb8326" />
+
+i still have some materials i haven't finish listing due to the reason that i can't find my ideal materials ;-;
+
+
+**Total time spent: 1 hour**
+
 
 
 
