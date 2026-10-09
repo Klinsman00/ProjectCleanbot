@@ -23,7 +23,7 @@ So i started to search for materials for it then came across a DIY vacuum robot 
 
 
 
-**Total time spent: 38 to 44 hours totaling up that week**
+**Total time spent: 35 hours totaling up that week**
 
 
 
@@ -53,7 +53,7 @@ So then i found FreeCAD and tried experimenting a bit but completely do not know
 
 
 
-**Total time spent: 38 to 44 hours**
+**Total time spent: 30 hours**
 
 
 
