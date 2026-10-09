@@ -11,7 +11,8 @@ The reason i decided on making this project is because i thought about my family
 
 ## Bill of Materials
 
-**Total: RM623.80** / RM820 Forge A-tier cap · 3D printing not included yet (quote pending) · Full list: [bom.csv](bom.csv)
+**Total: RM623.80** / RM820 Forge A-tier cap · 3D printing not included yet (quote pending)
+- Full list: [bom.csv](bom.csv)
 
 ### Microcontroller — RM67.00
 
