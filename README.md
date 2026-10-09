@@ -4,12 +4,12 @@ Anyway jokes aside this project i am making is a vacuum cleaner robot that has f
 
 The reason i decided on making this project is because i thought about my family back in Sabah sweeping and vacuuming the house and want to lessen their burden a little so after making this robot i will be sending it over to them.
 
-* Wiring diagram
+## Wiring diagram
 <img width="1226" height="851" alt="image" src="https://github.com/user-attachments/assets/4eace66a-8c3b-4edf-a825-fdb2869e47ac" />
 
 - [Schematic wiring diagram](<clean_o_bot pcb.kicad_sch>)
 
-* Bill of Materials
+## Bill of Materials
 
 **Total: RM623.80** / RM820 Forge A-tier cap · 3D printing not included yet (quote pending) · Full list: [bom.csv](bom.csv)
 
