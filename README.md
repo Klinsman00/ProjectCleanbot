@@ -12,7 +12,11 @@ The reason i decided on making this project is because i thought about my family
   
 ```mermaid
 flowchart LR
-  BAT["12v battery"] --> FUSE["5A Fuse"]
+  BAT["12v battery"] --> FUSE["5A Fuse"] --> SW["on/off switch"] --> BUS["12v Bus"]
+
+  BUS --> BUCK["12v to 5v"]
+  BUS --> MC1["IRF520 #1"]
+  BUS --> MC2["IRF520 #2"]
 
 ```
 
