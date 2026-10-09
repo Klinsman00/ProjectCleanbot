@@ -6,7 +6,7 @@ The reason i decided on making this project is because i thought about my family
 
 * Wiring diagram
 <img width="1226" height="851" alt="image" src="https://github.com/user-attachments/assets/4eace66a-8c3b-4edf-a825-fdb2869e47ac" />
-clean_o_bot pcb.kicad_sch
+- [Schematic wiring diagram](clean_o_bot pcb.kicad_sch)
 
 ## Bill of Materials
 
