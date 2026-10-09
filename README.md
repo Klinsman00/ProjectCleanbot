@@ -9,6 +9,13 @@ The reason i decided on making this project is because i thought about my family
 
 - [Schematic wiring diagram](<clean_o_bot pcb.kicad_sch>)
 
+  
+```mermaid
+flowchart LR
+  BAT["12v battery"] --> FUSE["5A Fuse"]
+
+```
+
 ## Bill of Materials
 
 **Total: RM623.80** / RM820 Forge A-tier cap · 3D printing not included yet (quote pending)
