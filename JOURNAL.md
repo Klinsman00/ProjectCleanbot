@@ -92,6 +92,10 @@ Almost finish the BOM only left the little things but changed the brush motor ag
 # October 9th: Finished BOM 
 
 Finally finished this i had to change the encoder motor because it was way too expensive from pololu and found a much cheaper alternative though the shipping fee is still pricy from DFRobotics which has similar motor though slightly weaker. Then realized i have to actually add links to my products from looking at one of the comments in forge-help so had to change up some things there then i used AI to redesign the BOM to make it more proper for people to see instead of just a white sheet with lines. Also learned about protecting electronic parts with Inline fuse, heat shrinks and heat sinks also on how to protect chassis with heat inserts so that the screw doesn't damage the chassis.
+
+I also found out that i can't use the spreadsheet file in github so my cool design can't be used ;-; and have to use the csv file instead not complaining though. Annndd i did checkout the ducktop guy and referenced his README and took the idea of adding the board thing so i learned about it added it into my README as well man that guy is cool.
+
+
 <img width="1917" height="747" alt="image" src="https://github.com/user-attachments/assets/65c264cf-7628-4ec2-a86b-71e550e2eeaf" />
 
 <img width="1917" height="727" alt="image" src="https://github.com/user-attachments/assets/7eed3302-ff6e-4f87-ad55-7cda6edda5cb" />
