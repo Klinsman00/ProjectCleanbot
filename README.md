@@ -17,6 +17,23 @@ flowchart LR
   BUS --> BUCK["12v to 5v"]
   BUS --> MC1["IRF520 #1"]
   BUS --> MC2["IRF520 #2"]
+  BUS --> L298N["L298N MC"]
+
+  MC1 --> BLOWER["Blower Motor"]
+  MC2 --> BRUSH["Brush Motor"]
+  L298N --> MOTOR["Wheel Motor"]
+
+  BUCK --> ESP32["ESP32 S3"]
+  BUCK --> SHARP["Sensor"]
+
+  ESP -->|"GPIO 4-9"| L298N
+  ESP -->|GPIO 10| M1
+  ESP -->|GPIO 11| M2
+  ESP -->|GPIO 13| LED["Status LED"]
+
+  WHEELS -->|"Encoders → GPIO 14-17"| ESP
+  SHARP -->|"GPIO 1, 2"| ESP
+  BUMP["Bump Switches"] -->|GPIO 12| ESP
 
 ```
 
