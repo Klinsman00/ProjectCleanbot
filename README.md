@@ -9,7 +9,7 @@ The reason i decided on making this project is because i thought about my family
 
 - [Schematic wiring diagram](<clean_o_bot pcb.kicad_sch>)
 
-  
+## Boards
 ```mermaid
 flowchart LR
   BAT["12v battery"] --> FUSE["5A Fuse"] --> SW["on/off switch"] --> BUS["12v Bus"]
