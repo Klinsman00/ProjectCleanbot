@@ -95,6 +95,7 @@ Finally finished this i had to change the encoder motor because it was way too e
 
 I also found out that i can't use the spreadsheet file in github so my cool design can't be used ;-; and have to use the csv file instead not complaining though. Annndd i did checkout the ducktop guy and referenced his README and took the idea of adding the board thing so i learned about it added it into my README as well man that guy is cool.
 
+<img width="1347" height="437" alt="image" src="https://github.com/user-attachments/assets/82297517-68d2-4be8-b79e-eb975a4ce3e8" />
 
 <img width="1917" height="747" alt="image" src="https://github.com/user-attachments/assets/65c264cf-7628-4ec2-a86b-71e550e2eeaf" />
 
