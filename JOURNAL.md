@@ -84,7 +84,7 @@ i still have some materials i haven't finish listing due to the reason that i ca
 
 # September 26th: Change some things in BOM almost finished
 
-Almost finish the BOM only left the little things but changed the brush motor again cause i'm not sure if it has enough torque as well as wheel size cause i previously tried 32mm but it ended up being too short so i changed the wheel. Then for the brush motor i changed it from 10:1 n20 motor with 1000rpm and 16 torque to a motor with 1350 rpm and 175 torque that can handle the friction between floor and the silicone roller brush
+Almost finish the BOM only left the little things but changed the brush motor again cause i am not sure if it has enough torque as well as wheel size cause i previously tried 32mm but it ended up being too short so i changed the wheel to a 42mm*19mm sized wheel. Then for the brush motor i changed it from 10:1 n20 motor with 1000rpm and 16 torque to a motor with 1350 rpm and 175 torque that can handle the friction between floor and the silicone roller brush
 <img width="1460" height="705" alt="image" src="https://github.com/user-attachments/assets/ebeacfb2-fd36-4538-b10e-bc09a2394595" />
 
 **Total time spent:3 hour**
