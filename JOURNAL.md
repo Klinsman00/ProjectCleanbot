@@ -102,3 +102,23 @@ I also found out that i can't use the spreadsheet file in github so my cool desi
 <img width="1917" height="727" alt="image" src="https://github.com/user-attachments/assets/7eed3302-ff6e-4f87-ad55-7cda6edda5cb" />
 
 **Total time spent:5 hour**
+
+# November 4th: Started coding
+
+I had to stop for a while due to exam and sickness but i am back on my project and have started coding and initialising the git it took some time because the setting up had error since i used vscode and did not know how to connect the hackatime to it, downloading Git and using it though i still am not sure what Git does only know that it connects to Github and is a way to help Github collect data to there. Had some trouble with PlatformIO because the version i downloaded wasn't the earliest so i could not use the espressif library so i had to go to windows powershell and upload New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force this code cause windowns did not want to read the file from espressif library if it was too long and using this will like kind of force window to read or download it and coded it to light up led.
+
+<img width="1465" height="617" alt="image" src="https://github.com/user-attachments/assets/07aab371-464d-4cd1-ad2f-6151c785fac9" />
+
+**Total time spent:3 hour**
+
+# November 5th: Started Cad and continued coding
+
+I never done CAD before so i watched a youtube video here is the link [![how to use Solidworks](https://youtube.com/vi/jhaPTx056vI&t/0.jpg)](https://www.youtube.com/watch?v=jhaPTx056vI&t=566s) and then created CAD folder inside my ProjectCleanBot folder to put all my designed model in as well as a downloaded folder inside CAD folder for downloaded parts like motor and motor controller. Then i used notepad to draw a rough sketch on where everything goes and how it should look like without precise measurements. 
+
+Then designed a Base of the vacuum bot using measurements of usual vacuum bots though not entirely just within the range and struggled with using the smart measurements since it turns out you have to go in sketch mode and target a specific plane for it to work. 
+
+Then did some more coding like my bump switch and researched a little on how to code the sensors and found out their voltage changes with range so gonna do that tmr
+
+<img width="1166" height="657" alt="image" src="https://github.com/user-attachments/assets/77817188-a5b6-48fb-abb3-37f1d26cefaa" />
+
+**Total time spent:3 hour**
