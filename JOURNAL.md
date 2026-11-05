@@ -114,6 +114,7 @@ I had to stop for a while due to exam and sickness but i am back on my project a
 # November 5th: Started Cad and continued coding
 
 I never done CAD before so i watched a youtube video here is the link [![how to use Solidworks](https://img.youtube.com/vi/jhaPTx056vI/0.jpg)](https://www.youtube.com/watch?v=jhaPTx056vI&t=566s) 
+
 then created CAD folder inside my ProjectCleanBot folder to put all my designed model in as well as a downloaded folder inside CAD folder for downloaded parts like motor and motor controller. Then i used notepad to draw a rough sketch on where everything goes and how it should look like without precise measurements. 
 
 Then designed a Base of the vacuum bot using measurements of usual vacuum bots though not entirely just within the range and struggled with using the smart measurements since it turns out you have to go in sketch mode and target a specific plane for it to work. 
